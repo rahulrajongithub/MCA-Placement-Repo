@@ -1,4 +1,6 @@
 # Important Links For Placement Preparation
+### All in one Drive for all Companies:
+https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m
 
 ### Tutorial Links:
 Bitwise Operations (Basic Level)
