@@ -20,6 +20,12 @@ Infosys Logical Reasoning
 
 https://www.youtube.com/watch?v=005JqHaZtmY
 
+### Online Documents:
+
+Training Suggested by Btech Students
+
+http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf
+
 ### Other links:
 
 
