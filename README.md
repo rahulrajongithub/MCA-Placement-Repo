@@ -1,10 +1,12 @@
-## Important Links For Placement Preparation
+# Important Links For Placement Preparation
 
-Crackingthe Coding Interview PDF (BTech): https://www.engbookspdf.com/uploads/pdf-books/CrackingtheCodingInterview189ProgrammingquestionsandSolutions-1.pdf
+Youtube Video Links:
+1. Infosys Aptitude
+https://www.youtube.com/watch?v=1VcQVIZAVgI
 
-#Youtube Video Links:
+2. Infosys Logical Reasoning
+https://www.youtube.com/watch?v=005JqHaZtmY
 
-
-#Other links:
+Other links:
 
 
